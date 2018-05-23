@@ -111,8 +111,6 @@
 		FD439E7120B575BF005E00AD /* image.png in Resources */ = {isa = PBXBuildFile; fileRef = FD439E0E20B575BE005E00AD /* image.png */; };
 		FD439E7220B575BF005E00AD /* fp36.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD439E0F20B575BE005E00AD /* fp36.jpg */; };
 		FD439E7320B575BF005E00AD /* fp22.png in Resources */ = {isa = PBXBuildFile; fileRef = FD439E1020B575BE005E00AD /* fp22.png */; };
-		FD439E7420B575BF005E00AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD439E1220B575BE005E00AD /* LaunchScreen.storyboard */; };
-		FD439E7520B575BF005E00AD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD439E1420B575BE005E00AD /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -257,8 +255,6 @@
 		FD439E0E20B575BE005E00AD /* image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image.png; sourceTree = "<group>"; };
 		FD439E0F20B575BE005E00AD /* fp36.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fp36.jpg; sourceTree = "<group>"; };
 		FD439E1020B575BE005E00AD /* fp22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fp22.png; sourceTree = "<group>"; };
-		FD439E1320B575BE005E00AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
-		FD439E1520B575BE005E00AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -321,7 +317,6 @@
 				FD439D8620B575A7005E00AD /* UIView+Tools.m */,
 				FD439D8820B575A7005E00AD /* ViewController.h */,
 				FD439D8A20B575A7005E00AD /* ViewController.m */,
-				FD439E1120B575BE005E00AD /* Base.lproj */,
 				FD439D9220B575BE005E00AD /* Filters */,
 				FD439DE320B575BE005E00AD /* Images */,
 				FD439D7320B5750A005E00AD /* Main.storyboard */,
@@ -493,16 +488,6 @@
 			path = Images;
 			sourceTree = "<group>";
 		};
-		FD439E1120B575BE005E00AD /* Base.lproj */ = {
-			isa = PBXGroup;
-			children = (
-				FD439E1220B575BE005E00AD /* LaunchScreen.storyboard */,
-				FD439E1420B575BE005E00AD /* Main.storyboard */,
-			);
-			name = Base.lproj;
-			path = "../../../../../Downloads/cameraFilters-master/CameraFilters/Base.lproj";
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -568,11 +553,9 @@
 				FD439E5E20B575BF005E00AD /* fp40.png in Resources */,
 				FD439E6020B575BF005E00AD /* fp32.jpg in Resources */,
 				FD439E5320B575BF005E00AD /* fp2.jpg in Resources */,
-				FD439E7520B575BF005E00AD /* Main.storyboard in Resources */,
 				FD439E3620B575BF005E00AD /* Moment.acv in Resources */,
 				FD439E3720B575BF005E00AD /* crossprocess.acv in Resources */,
 				FD439E5420B575BF005E00AD /* fp3.png in Resources */,
-				FD439E7420B575BF005E00AD /* LaunchScreen.storyboard in Resources */,
 				FD439E5020B575BF005E00AD /* fp14.png in Resources */,
 				FD439E4720B575BF005E00AD /* fp13.png in Resources */,
 				FD439E5820B575BF005E00AD /* fp7.png in Resources */,
@@ -736,22 +719,6 @@
 				FD439D7920B5750C005E00AD /* Base */,
 			);
 			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-		FD439E1220B575BE005E00AD /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				FD439E1320B575BE005E00AD /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-		FD439E1420B575BE005E00AD /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				FD439E1520B575BE005E00AD /* Base */,
-			);
-			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
