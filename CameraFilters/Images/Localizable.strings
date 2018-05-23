@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  filters
+
+  Created by zhaohang on 2018/5/15.
+  Copyright © 2018年 HangZhao. All rights reserved.
+*/
+"Origin" = "原图";
+"City" = "都市";
+"Country" = "乡村";
+"1Q84" = "1Q84";
+"Forest" = "重庆森林";
+"Moment" = "时刻";
+"Lake" = "湖水";
+"Vintage" = "怀旧";
+"Tea" = "下午茶";
+"NYC" = "NYC";
+"BookStore" = "书店";
+"Film" = "胶片";
+
+"Filter17" = "迷失";
+"Filter4" = "胶片";
+"Filter11" = "怀旧";
+"Filter9" = "乡村";
+"Filter5" = "NYC";
+"Filter8" = "光阴";
+"Filter16" = "暮色";
+"Filter15" = "湖水";
+"Filter1" = "下午茶";
+"Filter7" = "静默";
+"Filter12" = "1Q84";
+"Filter6" = "重庆森林";
+"Filter18" = "黑白";
